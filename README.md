@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Audipunk
+- 👋 Hi, I’m @Muneer
 - 👀 I’m interested in backend and front end software
 - 🌱 I’m currently learning Software Development
 - 📫 How to reach me @ audipunkwp@gmail.com
